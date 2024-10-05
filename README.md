@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://spwebconnect.com/img/services/Mobile_Application/Android_App_Development/SpWebconnect_Android_App_development.gif">
 
 <!-- Two good gifs for right part banner
-<!-- https://spwebconnect.com/img/services/Mobile_Application/Android_App_Development/SpWebconnect_Android_App_development.gif --> Transparent Image
-<!-- https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif --> With white background
+<!-- https://spwebconnect.com/img/services/Mobile_Application/Android_App_Development/SpWebconnect_Android_App_development.gif Transparent Image -->
+<!-- https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif With white background -->
 
 
 - 🌱 I’m currently learning **Android Dev**
