@@ -1,7 +1,8 @@
-![Banner](https://akshusofttech.com/wp-content/uploads/2021/04/Mobile-App-Development-Company-Jabalpur.png)
+<img align="right" alt="Banner" src="Resources/Mobile Dev banner.png">
+<br>
 <h1 align="center">Hi 👋, I'm Ebrahim Gamal</h1>
 <h3 align="center">I'm a Mobile Developer from Egypt</h3><br>
-<img align="right" alt="Coding" width="400" src="https://spwebconnect.com/img/services/Mobile_Application/Android_App_Development/SpWebconnect_Android_App_development.gif">
+<img align="right" alt="Mobile Dev" width="400" src="Resources/Mobile Dev gif.gif">
 
 <!-- Two good gifs for right part banner
 <!-- https://spwebconnect.com/img/services/Mobile_Application/Android_App_Development/SpWebconnect_Android_App_development.gif Transparent Image -->
